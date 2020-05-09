@@ -1,0 +1,11 @@
+F:\Git\CourseManager-Csharp-SQL\CourseReportEmailer\CourseReportEmailer\bin\Debug\netcoreapp2.2\CourseReportEmailer.deps.json
+F:\Git\CourseManager-Csharp-SQL\CourseReportEmailer\CourseReportEmailer\bin\Debug\netcoreapp2.2\CourseReportEmailer.runtimeconfig.json
+F:\Git\CourseManager-Csharp-SQL\CourseReportEmailer\CourseReportEmailer\bin\Debug\netcoreapp2.2\CourseReportEmailer.runtimeconfig.dev.json
+F:\Git\CourseManager-Csharp-SQL\CourseReportEmailer\CourseReportEmailer\bin\Debug\netcoreapp2.2\CourseReportEmailer.dll
+F:\Git\CourseManager-Csharp-SQL\CourseReportEmailer\CourseReportEmailer\obj\Debug\netcoreapp2.2\CourseReportEmailer.csprojAssemblyReference.cache
+F:\Git\CourseManager-Csharp-SQL\CourseReportEmailer\CourseReportEmailer\obj\Debug\netcoreapp2.2\CourseReportEmailer.csproj.CoreCompileInputs.cache
+F:\Git\CourseManager-Csharp-SQL\CourseReportEmailer\CourseReportEmailer\obj\Debug\netcoreapp2.2\CourseReportEmailer.AssemblyInfoInputs.cache
+F:\Git\CourseManager-Csharp-SQL\CourseReportEmailer\CourseReportEmailer\obj\Debug\netcoreapp2.2\CourseReportEmailer.AssemblyInfo.cs
+F:\Git\CourseManager-Csharp-SQL\CourseReportEmailer\CourseReportEmailer\bin\Debug\netcoreapp2.2\CourseReportEmailer.pdb
+F:\Git\CourseManager-Csharp-SQL\CourseReportEmailer\CourseReportEmailer\obj\Debug\netcoreapp2.2\CourseReportEmailer.dll
+F:\Git\CourseManager-Csharp-SQL\CourseReportEmailer\CourseReportEmailer\obj\Debug\netcoreapp2.2\CourseReportEmailer.pdb
